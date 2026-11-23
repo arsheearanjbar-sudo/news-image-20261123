@@ -28,7 +28,7 @@ The board was redrawn in the evening of 23 November 2026 with the full day's new
 
 ## Files
 
-- `entry.png` — the image (1024x1024, 140,868 bytes)
+- `entry.png` — the image (1024x1024, 151,248 bytes)
 - `main.ts` — entrypoint
 - `draw_news_evening.py` — the PIL script that renders entry.png (evening redraw with the full day's news)
 - `draw_news.py` — the morning render script
